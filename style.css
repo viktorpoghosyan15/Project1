@@ -1,11 +1,11 @@
 h2{
-    color: blueviolet;
+    color: rgb(43, 61, 226);
     font-size: 50px;
     font-style: italic;
     background-color: cyan;
 }
 p{
-    color: blue;
+    color: rgb(108, 108, 206);
     font-size: 25px;
     font-weight: 400;
 }
